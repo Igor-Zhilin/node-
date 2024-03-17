@@ -743,3 +743,13 @@
   level: 'info',
   timestamp: '2024-03-17T10:34:26.687Z'
 }
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-17T10:42:23.209Z'
+}
+{
+  message: 'Получили профиль от Google [object Object]',
+  level: 'info',
+  timestamp: '2024-03-17T10:42:33.861Z'
+}
