@@ -1,0 +1,745 @@
+{
+  message: 'Зашли на страницу с регистрацией',
+  level: 'info',
+  timestamp: '2024-02-12T07:11:35.681Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-12T07:12:16.297Z'
+}
+{
+  message: 'Зашли на страницу с логином',
+  level: 'info',
+  timestamp: '2024-02-12T07:12:23.113Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-12T07:13:05.239Z'
+}
+{
+  message: 'Зашли на страницу edit post',
+  level: 'info',
+  timestamp: '2024-02-12T07:13:41.322Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-19T06:10:33.591Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-19T07:51:05.608Z'
+}
+{
+  message: 'Зашли на страницу с регистрацией',
+  level: 'info',
+  timestamp: '2024-02-19T07:51:14.577Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-19T07:52:26.664Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-19T07:52:34.801Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-19T07:52:59.723Z'
+}
+{
+  message: 'Зашли на страницу с логином',
+  level: 'info',
+  timestamp: '2024-02-19T07:53:01.967Z'
+}
+{
+  message: 'Зашли на страницу с регистрацией',
+  level: 'info',
+  timestamp: '2024-02-19T07:53:03.847Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-19T07:54:26.332Z'
+}
+{
+  message: 'Зашли на страницу с логином',
+  level: 'info',
+  timestamp: '2024-02-19T07:54:33.989Z'
+}
+{
+  message: 'Зашли на страницу с регистрацией',
+  level: 'info',
+  timestamp: '2024-02-19T07:54:35.765Z'
+}
+{
+  message: 'Token подготовлен eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoicXd2ZTEzNDU0IiwiaWF0IjoxNzA4MzI5Mjg2LCJleHAiOjE3MDgzMzI4ODZ9.Ll8dh1sYUPeQVTb5IFuIVKjPjEw6zftQCvXdu6QdPFU',
+  level: 'info',
+  timestamp: '2024-02-19T07:54:46.579Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T07:54:49.153Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:00:48.207Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:04:40.882Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:05:18.397Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:05:57.097Z'
+}
+{
+  message: 'Зашли на страницу с регистрацией',
+  level: 'info',
+  timestamp: '2024-02-26T08:06:09.937Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:09:43.959Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:10:36.274Z'
+}
+{
+  message: 'Зашли на страницу с регистрацией',
+  level: 'info',
+  timestamp: '2024-02-26T08:10:56.001Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:11:30.610Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:11:45.582Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:13:05.952Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:13:32.003Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:14:38.536Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:16:03.342Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:25:55.685Z'
+}
+{
+  message: 'Сервер запущен на порту  + port',
+  level: 'info',
+  timestamp: '2024-02-26T08:29:10.423Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:29:47.840Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:30:16.441Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:30:42.184Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:31:22.109Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:31:51.075Z'
+}
+{
+  message: 'Токен подготовлен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoid2VyYndlcmJ3ZXIxMyIsImlhdCI6MTcwODkzNjMyMSwiZXhwIjoxNzA4OTM5OTIxfQ.2VS7_WReET3PkOairP9_I_dMaSVtK2Z_yg85k1cnqe0',
+  level: 'info',
+  timestamp: '2024-02-26T08:32:01.581Z'
+}
+{
+  message: 'Token подготовка :eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDg5MzYzMzQsImV4cCI6MTcwODkzOTkzNH0.MOTLmuErMTuuO8jA5e8bLSEedoENqSuMjJbAkJFMzeA',
+  level: 'info',
+  timestamp: '2024-02-26T08:32:14.892Z'
+}
+{
+  message: 'Зашли на страницу edit post',
+  level: 'info',
+  timestamp: '2024-02-26T08:32:28.696Z'
+}
+{
+  message: 'Зашли на страницу edit post',
+  level: 'info',
+  timestamp: '2024-02-26T08:33:06.942Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:37:11.144Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:37:20.074Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:37:32.159Z'
+}
+{
+  message: 'Токен подготовлен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoicmVidHJ3YnJld2IiLCJpYXQiOjE3MDg5MzY2NzMsImV4cCI6MTcwODk0MDI3M30._2jet6dLUSLJOgatsldVrFK9VJqFoVq8tcw04NX5OFc',
+  level: 'info',
+  timestamp: '2024-02-26T08:37:53.171Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:45:51.229Z'
+}
+{
+  message: 'Токен подготовлен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoicXdldnZ3ZXF2cWV3dyIsImlhdCI6MTcwODkzNzE2NCwiZXhwIjoxNzA4OTQwNzY0fQ.bYGy0stKVo_1Qm1-Gejf7i6-zOOzgbaigyQl3nfXUAc',
+  level: 'info',
+  timestamp: '2024-02-26T08:46:04.517Z'
+}
+{
+  message: 'Токен подготовлен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoicXdldmVxd3YiLCJpYXQiOjE3MDg5MzcyMDMsImV4cCI6MTcwODk0MDgwM30.F4W9nVYDz12MP43TcgR0Qu75vOhJzsVBSYRjJcBbnTc',
+  level: 'info',
+  timestamp: '2024-02-26T08:46:43.576Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T10:13:06.581Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-02-26T10:17:58.692Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-05T06:32:28.641Z'
+}
+{
+  message: 'Сервер запущен на порту 34',
+  level: 'info',
+  timestamp: '2024-03-05T06:33:03.031Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-05T06:33:40.101Z'
+}
+{
+  message: 'Имя или пароль неверный',
+  level: 'error',
+  timestamp: '2024-03-05T06:33:49.745Z'
+}
+{
+  message: 'Токен подготовлен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoid2VyYndlcmJ3ZXIiLCJpYXQiOjE3MDk2MjA0NDEsImV4cCI6MTcwOTYyNDA0MX0.Osq-itDuWdNPfVhFU4fRuP12PBf51bzrpzmI3pHjt_k',
+  level: 'info',
+  timestamp: '2024-03-05T06:34:01.056Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-05T06:35:04.698Z'
+}
+{
+  message: 'Token подготовка :eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDk2MjA1MTMsImV4cCI6MTcwOTYyNDExM30.I1jkyY82Rahj7slO0btYRE2TCRD3AfnP0rsUVkleAzU',
+  level: 'info',
+  timestamp: '2024-03-05T06:35:13.853Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-05T06:40:40.384Z'
+}
+{
+  message: 'Token подготовка :eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDk2MjA4NTEsImV4cCI6MTcwOTYyNDQ1MX0.9REIf9MlkheNZINnbmJQwwcL3F_Kd2OsecLCDjyBDAk',
+  level: 'info',
+  timestamp: '2024-03-05T06:40:51.325Z'
+}
+{
+  message: 'Token not accepted',
+  level: 'info',
+  timestamp: '2024-03-05T06:40:53.899Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-05T06:42:40.100Z'
+}
+{
+  message: 'Пользователь зашёл на страницу логина',
+  level: 'info',
+  timestamp: '2024-03-05T06:42:49.766Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-05T06:43:33.486Z'
+}
+{
+  message: 'Пользователь зашёл на страницу логина',
+  level: 'info',
+  timestamp: '2024-03-05T06:43:35.366Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-05T06:44:12.090Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-05T06:44:39.085Z'
+}
+{
+  message: 'Token подготовка :eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDk2MjEwODEsImV4cCI6MTcwOTYyNDY4MX0.NhVGJGqpMPP86bbZKPCIgux3Irmxe3pva1l5147d5mg',
+  level: 'info',
+  timestamp: '2024-03-05T06:44:41.718Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-05T06:49:46.371Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-05T06:50:40.981Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-05T06:51:07.283Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-05T06:52:21.259Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-05T06:53:33.745Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-05T06:55:25.184Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-05T06:55:41.631Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-05T07:00:18.158Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-05T07:00:21.313Z'
+}
+{
+  message: 'Token подготовка :eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiMzViYXJkYWV2QGdtYWlsLmNvbSIsImlhdCI6MTcwOTYyMjAyNiwiZXhwIjoxNzA5NjI3MDI2fQ.PivHgEgXfsPTy35rpgQeI0EKINv2EuVpklFsVQbuTv0',
+  level: 'info',
+  timestamp: '2024-03-05T07:00:26.461Z'
+}
+{
+  message: 'Token accepted successfully',
+  level: 'info',
+  timestamp: '2024-03-05T07:00:30.423Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-05T08:16:32.133Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-05T08:18:43.383Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-05T08:19:33.415Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-05T08:23:05.676Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-05T08:31:20.947Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-05T08:31:31.317Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-11T06:04:20.633Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-11T06:22:34.365Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-11T06:34:41.490Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-11T06:35:25.232Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-11T06:36:13.701Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-11T06:36:17.751Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-11T06:57:15.374Z'
+}
+{
+  message: 'Получили профиль от Yandex [object Object]',
+  level: 'info',
+  timestamp: '2024-03-11T06:57:18.788Z'
+}
+{
+  message: 'Получили профиль от Yandex [object Object]',
+  level: 'info',
+  timestamp: '2024-03-11T06:57:37.036Z'
+}
+{
+  message: 'Получили профиль от Yandex [object Object]',
+  level: 'info',
+  timestamp: '2024-03-11T06:58:51.288Z'
+}
+{
+  message: 'Получили профиль от Yandex [object Object]',
+  level: 'info',
+  timestamp: '2024-03-11T07:00:53.702Z'
+}
+{
+  message: 'Получили профиль от Yandex [object Object]',
+  level: 'info',
+  timestamp: '2024-03-11T07:07:12.552Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-11T08:48:15.523Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-11T08:49:58.173Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-11T08:50:15.405Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-11T18:02:15.698Z'
+}
+{
+  message: 'Получили профиль от Yandex [object Object]',
+  level: 'info',
+  timestamp: '2024-03-11T18:02:28.303Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-11T18:11:57.626Z'
+}
+{
+  message: 'Получили профиль от Yandex [object Object]',
+  level: 'info',
+  timestamp: '2024-03-11T18:12:07.836Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-12T06:01:58.350Z'
+}
+{
+  message: 'Получили профиль от Yandex [object Object]',
+  level: 'info',
+  timestamp: '2024-03-12T06:02:14.838Z'
+}
+{
+  message: 'Получили профиль от Yandex [object Object]',
+  level: 'info',
+  timestamp: '2024-03-12T06:08:41.550Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-12T06:21:15.621Z'
+}
+{
+  message: 'Получили профиль от Yandex [object Object]',
+  level: 'info',
+  timestamp: '2024-03-12T06:46:40.803Z'
+}
+{
+  message: 'Получили профиль от Yandex [object Object]',
+  level: 'info',
+  timestamp: '2024-03-12T06:52:31.349Z'
+}
+{
+  message: 'Получили профиль от Yandex [object Object]',
+  level: 'info',
+  timestamp: '2024-03-12T06:52:41.181Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-12T07:09:19.942Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-12T07:09:28.571Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-12T08:18:34.740Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-03-12T08:39:40.189Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-03-12T08:39:40.195Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-03-12T08:39:40.419Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-03-12T08:39:40.434Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-03-12T08:39:43.280Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-03-12T08:39:43.282Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-03-12T08:39:43.284Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-03-12T08:39:43.285Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-03-12T08:39:50.436Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-03-12T08:39:50.446Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-03-12T08:39:50.450Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-03-12T08:39:50.469Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-12T08:42:54.989Z'
+}
+{
+  message: 'Получили профиль от Yandex [object Object]',
+  level: 'info',
+  timestamp: '2024-03-12T08:43:01.673Z'
+}
+{
+  message: 'Получили профиль от Yandex [object Object]',
+  level: 'info',
+  timestamp: '2024-03-12T08:43:22.980Z'
+}
+{
+  message: 'Получили профиль от Yandex [object Object]',
+  level: 'info',
+  timestamp: '2024-03-12T08:43:25.821Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-12T08:45:10.296Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-12T08:45:24.170Z'
+}
+{
+  message: 'Token подготовка :eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiMzViYXJkYWV2QGdtYWlsLmNvbSIsImlhdCI6MTcxMDIzMzI0MywiZXhwIjoxNzEwMjM4MjQzfQ._qGSMzYF_cVeomN7sqqt-soAoxFfb0ERy_rZ3NvoQu8',
+  level: 'info',
+  timestamp: '2024-03-12T08:47:23.079Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-12T08:47:41.191Z'
+}
+{
+  message: 'Получили профиль от Yandex [object Object]',
+  level: 'info',
+  timestamp: '2024-03-12T08:47:48.582Z'
+}
+{
+  message: 'Получили профиль от Google [object Object]',
+  level: 'info',
+  timestamp: '2024-03-12T08:47:58.374Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-12T08:48:27.133Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-12T08:48:42.832Z'
+}
+{
+  message: 'Получили профиль от Yandex [object Object]',
+  level: 'info',
+  timestamp: '2024-03-12T08:48:49.837Z'
+}
+{
+  message: 'Получили профиль от Google [object Object]',
+  level: 'info',
+  timestamp: '2024-03-12T08:48:58.453Z'
+}
+{
+  message: 'Получили профиль от Google [object Object]',
+  level: 'info',
+  timestamp: '2024-03-12T08:49:03.379Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-16T15:09:51.738Z'
+}
+{
+  message: 'Получили профиль от Yandex [object Object]',
+  level: 'info',
+  timestamp: '2024-03-16T15:09:58.421Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-17T10:33:13.963Z'
+}
+{
+  message: 'Получили профиль от Yandex [object Object]',
+  level: 'info',
+  timestamp: '2024-03-17T10:33:24.548Z'
+}
+{
+  message: 'Получили профиль от Yandex [object Object]',
+  level: 'info',
+  timestamp: '2024-03-17T10:33:32.978Z'
+}
+{
+  message: 'Сервер запущен на порту 3000',
+  level: 'info',
+  timestamp: '2024-03-17T10:34:20.236Z'
+}
+{
+  message: 'Получили профиль от Google [object Object]',
+  level: 'info',
+  timestamp: '2024-03-17T10:34:26.687Z'
+}

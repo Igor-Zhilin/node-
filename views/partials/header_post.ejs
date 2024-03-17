@@ -1,0 +1,88 @@
+
+  <style>
+    * {
+  font-family: sans-serif;
+  list-style-type: none !important;
+ 
+}
+.img-logo img {
+  width: 35%;
+}
+ ul.navbar-nav a:hover {
+  color:rgb(43, 92, 184);
+}
+ul.navbar-nav a {
+ color:black;
+ font-weight: 400;
+}
+h4 a {
+  text-decoration: none;
+ 
+}
+ i.fa-solid.fa-right-from-bracket {
+  margin-left: -115px;
+}
+.drop-down:hover {
+  background-color: rgba(17, 17, 17, 0.185);
+}
+.dropdown-menu {
+  min-width: 200px;
+}
+  </style>
+<section class="header-top">
+  <header class="p-3 mb-3 border-bottom">
+      <nav class="navbar  navbar-expand-lg ">
+          <div class="container">
+            <div class="img-logo">
+              <a href="/views/entries"><img src="<%= link %>" alt="" /></a>
+             </div>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav me-auto mb-2 mb-lg-0 ">
+                <li class="nav-item  pe-3 ">
+                  <a class="nav-link"  href="./index.html">О мессенджере</a>
+                </li>
+                <li class="nav-item   pe-3 ">
+                  <a class="nav-link" href="./about us.html">Контакты</a>
+                </li>
+                <li class="nav-item   pe-3" >
+                  <a class="nav-link" href="./services.html">О компании</a>
+                </li>
+                <li class="nav-item  pe-3">
+                  <a class="nav-link" href="./where to find us.html">Реклама</a>
+                </li>
+              </ul>
+              <li class="nav-item">
+                <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                  <div class="text-center p-2 user"><% if(locals.user) { %>  
+                    <%= locals.user.name %>
+                  <% } %></div>
+                  <li class="nav-item dropdown">
+                    <a
+                      href="#"
+                      class="nav-link dropdown-toggle"
+                      data-bs-toggle="dropdown"
+                      ><i class=" fa fa-user-o " aria-hidden="true"></i>
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledy="navbarDropdown">
+                      <li class="text-center"><% if(locals.user) { %>  
+                        <%= locals.user.name %>
+                      <% } %></li>
+                      <li class="drop-down">
+                        <h4><a class="badge rounded-pill" href="/logout"><i class="fa-solid fa-right-from-bracket m-1"> </i>Выйти</a></h4>
+                      </li>
+                      <li class="drop-down">
+                        <h4><a class="badge rounded-pill" href="#"><i class="fa-regular fa-circle-question m-1"></i>Помощь</a></h4>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </div>
+          </div>
+        </nav>
+        <img src="/public/img/logo.png" alt="">
+    </header>
+</section>
