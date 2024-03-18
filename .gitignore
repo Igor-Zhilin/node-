@@ -1,11 +1,5 @@
-<<<<<<< HEAD
 node_modules
 bootstrap-5.3.2
 combined.log
 test.sqlite
-=======
-node_modules
-bootstrap-5.3.2
-combined.log
-test.sqlite
->>>>>>> 68031dd7b19fd53e1330e4ee5f4b18436f2a2af0
+
