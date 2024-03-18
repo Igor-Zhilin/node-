@@ -798,3 +798,8 @@
   level: 'info',
   timestamp: '2024-03-18T17:01:13.606Z'
 }
+{
+  message: 'Сервер запущен на порту 80',
+  level: 'info',
+  timestamp: '2024-03-18T17:10:38.666Z'
+}
