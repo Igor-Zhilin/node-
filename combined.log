@@ -753,3 +753,48 @@
   level: 'info',
   timestamp: '2024-03-17T10:42:33.861Z'
 }
+{
+  message: 'Сервер запущен на порту 80',
+  level: 'info',
+  timestamp: '2024-03-18T12:50:47.337Z'
+}
+{
+  message: 'Получили профиль от Yandex [object Object]',
+  level: 'info',
+  timestamp: '2024-03-18T12:51:05.577Z'
+}
+{
+  message: 'Получили профиль от Yandex [object Object]',
+  level: 'info',
+  timestamp: '2024-03-18T12:51:13.429Z'
+}
+{
+  message: 'Сервер запущен на порту 80',
+  level: 'info',
+  timestamp: '2024-03-18T12:58:04.617Z'
+}
+{
+  message: 'Сервер запущен на порту 80',
+  level: 'info',
+  timestamp: '2024-03-18T16:54:46.813Z'
+}
+{
+  message: 'Сервер запущен на порту 80',
+  level: 'info',
+  timestamp: '2024-03-18T16:55:09.755Z'
+}
+{
+  message: 'Сервер запущен на порту 80',
+  level: 'info',
+  timestamp: '2024-03-18T16:55:49.919Z'
+}
+{
+  message: 'Сервер запущен на порту 80',
+  level: 'info',
+  timestamp: '2024-03-18T17:01:08.401Z'
+}
+{
+  message: 'Получили профиль от VK [object Object]',
+  level: 'info',
+  timestamp: '2024-03-18T17:01:13.606Z'
+}

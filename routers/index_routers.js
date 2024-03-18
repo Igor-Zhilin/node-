@@ -8,6 +8,7 @@ const validate = require("../middleware/validate");
 const Entry = require("../models/entry");
 const multer = require("multer");
 const passport = require("passport");
+const ensureAuthenticated = require("../middleware/isAuthenticated"); 
 const storage = multer.diskStorage({
   destination: function (req, file, cb) {
     cb(null, "uploads/");
@@ -28,7 +29,7 @@ router.get("/post", entries.form);
 router.post(
   "/post",
   upload.single("entryImage"),
-  passport.authenticate("jwt", { session: false }),
+  ensureAuthenticated,
   validate.required("[entry[title]]"),
   validate.required("[entry[content]]"),
   validate.lengthAbove("[entry[title]]", 4),
@@ -103,5 +104,37 @@ router.get( '/auth/google/callback',
         successRedirect: '/',
         failureRedirect: '/login'
 }));
+router.get(
+  "/auth/github",
+  passport.authenticate("github", { scope: ["user:email"] })
+);
+
+router.get(
+  "/auth/github/callback",
+  passport.authenticate("github", { failureRedirect: "/login" }),
+  function (req, res) {
+    // Successful authentication, redirect home.
+    res.redirect("/");
+  }
+);
+router.get("/auth/vkontakte", passport.authenticate("vkontakte"));
+
+router.get(
+  "/auth/vkontakte/callback",
+  passport.authenticate("vkontakte", {
+    successRedirect: "/",
+    failureRedirect: "/login",
+  })
+);
+
+router.get("/", function (req, res) {
+  // Здесь у вас есть доступ к req.user
+  res.json(req.user);
+});
+
+
+
+
+
 router.get("/logout", login.logout);
 module.exports = router;
