@@ -16,7 +16,7 @@ const passport = require("passport");
 const passportFunction = require("./middleware/passport_jwt");
 const passportFunctionYandex = require("./middleware/passport_yandex");
 const passportFunctionGoogle = require("./middleware/passport_go");
-// const passportFunctionGitHub = require("./middleware/passport_github");
+const passportFunctionGitHub = require("./middleware/passport_github");
 const passportFunctionVkontakte = require("./middleware/passport_vkontakte");
 // const morgan = require("morgan");
 const winston = require("winston");
@@ -30,7 +30,7 @@ const userSession = require("./middleware/user_session");
 const passportFunctionJWT = require("./middleware/passport_jwt");
 
 require("dotenv").config;
-const port = process.env.PORT || "80";
+const port = process.env.PORT || "3000";
 
 app.set("view engine", "ejs");
 app.set("views", path.join(__dirname, "views"));
@@ -56,7 +56,7 @@ app.use(passport.session());
 passportFunctionJWT(passport);
 passportFunctionYandex(passport);
 passportFunctionGoogle(passport);
-// passportFunctionGitHub(passport);
+passportFunctionGitHub(passport);
 passportFunctionVkontakte(passport);
 app.use(
   "/css/bootstrap.css",
