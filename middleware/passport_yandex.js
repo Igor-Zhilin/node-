@@ -1,25 +1,24 @@
 const YandexStrategy = require("passport-yandex").Strategy;
 const User = require("../models/user");
-const logger = require("../logger");
+const logger = require("../logger/index");
 require("dotenv").config();
 
 function passportFunction(passport) {
-  
   passport.serializeUser(function (user, done) {
     // console.log(user);
     if (user && user.id) {
-        const newUser = {
-            id: user.id,
-            email: user.email,
-            name: user.displayName,
-            age: user.birthday ? Date.now() - user.birthday : 0
-        };
-        done(null, newUser);
+      const newUser = {
+        id: user.id,
+        email: user.email,
+        name: user.displayName,
+        age: user.birthday ? Date.now() - user.birthday : 0,
+      };
+      done(null, newUser);
     } else {
-        // Используйте другое уникальное свойство пользователя или верните ошибку
-        done(new Error('User object does not contain id property'), null);
+      // Используйте другое уникальное свойство пользователя или верните ошибку
+      done(new Error("User object does not contain id property"), null);
     }
-});
+  });
 
   passport.deserializeUser(function (obj, done) {
     done(null, obj);

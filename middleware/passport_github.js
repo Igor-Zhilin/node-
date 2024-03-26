@@ -1,5 +1,5 @@
 const GitHubStrategy = require("passport-github").Strategy;
-const logger = require("../logger");
+const logger = require("../logger/index");
 require("dotenv").config();
 
 function passportFunctionGitHub(passport) {

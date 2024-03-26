@@ -18,6 +18,7 @@ const passportFunctionYandex = require("./middleware/passport_yandex");
 const passportFunctionGoogle = require("./middleware/passport_go");
 const passportFunctionGitHub = require("./middleware/passport_github");
 const passportFunctionVkontakte = require("./middleware/passport_vkontakte");
+const { sequelize } = require("./models/db");
 // const morgan = require("morgan");
 const winston = require("winston");
 const app = express();
@@ -79,9 +80,14 @@ app.get("/", (req, res) => {
 
 app.use(adminRoutes);
 
-app.listen(port, () => {
-  logger.info(`Сервер запущен на порту ` + port);
-  console.log(`Сервер запущен на порту ` + port);
+app.listen(port, async function () {
+  await sequelize.sync({ force: true });
+  logger.info(
+    `Сервер запущен на порту ` + port + ", все базы данных синхронизированны"
+  );
+  console.log(
+    `Сервер запущен на порту ` + port + ", все базы данных синхронизированны"
+  );
 });
 
 if (app.get("env") != "development") {

@@ -1,5 +1,5 @@
 const VKontakteStrategy = require("passport-vkontakte").Strategy;
-const logger = require("../logger");
+const logger = require("../logger/index");
 require("dotenv").config();
 
 function passportFunctionVK(passport) {

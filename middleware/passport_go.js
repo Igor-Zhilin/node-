@@ -1,5 +1,5 @@
 const GoogleStrategy = require("passport-google-oauth2").Strategy;
-const logger = require("../logger");
+const logger = require("../logger/index");
 require("dotenv").config();
 
 function passportFunctionGoogle(passport) {

@@ -37,7 +37,8 @@
     "passport-yandex": "^0.0.5",
     "path": "^0.12.7",
     "sass": "^1.69.5",
-    "sqlite3": "^5.1.6",
+    "sequelize": "^6.37.1",
+    "sqlite3": "^5.1.7",
     "validator": "^13.11.0",
     "winston": "^3.11.0"
   },

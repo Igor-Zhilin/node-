@@ -4,11 +4,33 @@ const jwt = require("jsonwebtoken");
 const link = "https://kappa.lol/VMimi";
 const messanger = "https://kappa.lol/iSONv";
 const logger = require("../logger/index");
+const bcrypt = require("bcrypt");
 const winston = require("winston");
 require("dotenv").config();
+
 exports.form = (req, res) => {
   res.render("loginForm", { title: "Login", link: link, messanger: messanger });
 };
+
+const bcrypt = require("bcrypt");
+const { User } = require("./models");
+
+async function authenticate(dataForm, cb) {
+  try {
+    const user = await User.findOne({ where: { email: dataForm.email } });
+
+    if (!user) {
+      return cb();
+    }
+
+    const result = await bcrypt.compare(dataForm.password, user.password);
+
+    if (result) return cb(null, user);
+    return cb();
+  } catch (err) {
+    return cb(err);
+  }
+}
 
 exports.submit = (req, res, next) => {
   const email = req.body.loginForm.email;
